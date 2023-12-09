@@ -7,7 +7,7 @@ Thanks for downloading this theme!
 Visit -> https://themewagon.com/theme-tag/restaurant-template/
 
 ## For download full source code
-[Click Here](https://mega.nz/file/9OFUVSJA#yLrH__6TTtX3TvvS4D0QZo2eeyDINR7ouXN5hnnKo14))
+[Click Here](https://mega.nz/file/9OFUVSJA#yLrH__6TTtX3TvvS4D0QZo2eeyDINR7ouXN5hnnKo14)
 
 
 ## Project Screenshot
