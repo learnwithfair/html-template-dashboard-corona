@@ -1,19 +1,21 @@
 Thanks for downloading this theme!
 
 ## Live Visit
-[Click For Live Visit](https://learnwithfair.github.io/html-template-ecommerce-electro-master/)
+[Click For Live Visit](https://learnwithfair.github.io/html-template-dashboard-corona/)
 
 ## For More Website Demo
 Visit -> https://themewagon.com/theme-tag/restaurant-template/
 
+## For download full source code
+[Click Here](https://mega.nz/file/9OFUVSJA#yLrH__6TTtX3TvvS4D0QZo2eeyDINR7ouXN5hnnKo14))
+
+
 ## Project Screenshot
 
-|   |   |   |
-|:---:|:---:|:---:|
-|Home|Product|Store|
-|![Index](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/dbca547c-a2fa-4c83-8654-f0f5244950aa)|![Product](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/0de8d398-c320-4efc-84d9-ac58587705b5)| ![Store](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/80fd582f-73e3-486d-8522-6593560789b7)|
-|Checkout|Regular|
-|![Checkout](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/8cb9351f-0b0e-4120-a58e-f42496e1ba90)| ![Regular](https://github.com/learnwithfair/html-template-ecommerce-electro-master/assets/103452668/90dbe504-5ee2-4e6b-9844-f8dcd3d1ebc6)|
+|   |   |
+|:---:|:---:|
+|vertical|horizontal|
+|![vertical](https://github.com/learnwithfair/html-template-dashboard-corona/blob/main/screenshots/modern-vertical.jpg)| ![horizontal](https://github.com/learnwithfair/html-template-dashboard-corona/blob/main/screenshots/modern-horizontal.jpg)|
 ## Other Useful Links
 
 **ThemeWagon** is a great source for downloading free HTML templates built with the latest technology.
